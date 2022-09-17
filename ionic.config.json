@@ -1,0 +1,7 @@
+{
+  "name": "Ionic_Cordova_Social_Sharing",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
