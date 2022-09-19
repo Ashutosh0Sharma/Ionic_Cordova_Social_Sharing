@@ -34,6 +34,6 @@ export class ViewMessagePage implements OnInit {
 
 
   shareData(messageInfo){
-    this.socialSharing.share(this.messageBody, messageInfo.subject, null, null);
+    this.socialSharing.share(this.messageBody, messageInfo.subject, null, 'https://www.youtube.com/watch?v=zzaIGC-MouU');
   }
 }
